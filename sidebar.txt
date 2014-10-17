@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbu:home|Door43 (gbu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbu|d43-gbu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbu/archive/master.zip|d43-gbu.zip]]
+
+**Recent Changes**
+{{changes>ns = gbu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbu|Ethnologue data]]
+
